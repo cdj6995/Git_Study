@@ -1,5 +1,5 @@
 # Git_Study
-기본적인 Git 사용법부터 git bash를 통한 CLI 방법뿐만 아니라 <br>
+기본적인 Git 사용법부터 Git bash를 이용한 CLI 방법뿐만 아니라 <br>
 Sourcetree를 이용한 GUI 방법으로 Git 사용법에 대해 학습함. <br>
 또한 eclipse를 통해 바로 github에 적용하는 방법에 대해서도 학습함.
 
